@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+install/
+log/
+logs/*.log
+data/
+datasets/
+runs/
+*.pt
+*.pth
+*.onnx
