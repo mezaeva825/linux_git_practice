@@ -11,3 +11,5 @@ runs/
 *.pth
 *.onnx
 .venv/
+unpack_test/
+unzip_test/
