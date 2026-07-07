@@ -1,0 +1,1 @@
+export PROJECT_NAME=linux_git_practice
