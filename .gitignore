@@ -10,3 +10,4 @@ runs/
 *.pt
 *.pth
 *.onnx
+.venv/
