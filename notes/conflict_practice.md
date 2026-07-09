@@ -1,1 +1,1 @@
-conflict line: changed from main
+conflict line: changed from both main and conflict-demo-2
